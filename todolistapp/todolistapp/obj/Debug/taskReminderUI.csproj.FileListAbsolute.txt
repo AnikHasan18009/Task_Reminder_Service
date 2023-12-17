@@ -1,0 +1,14 @@
+D:\codes\Task Reminder\todolistapp\taskReminderUI\bin\Debug\todolistapp.exe.config
+D:\codes\Task Reminder\todolistapp\taskReminderUI\bin\Debug\todolistapp.exe
+D:\codes\Task Reminder\todolistapp\taskReminderUI\bin\Debug\todolistapp.pdb
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\taskReminderUI.csprojAssemblyReference.cache
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.Form1.resources
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.Form2.resources
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.Form3.resources
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.Form4.resources
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.Form5.resources
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.Properties.Resources.resources
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\taskReminderUI.csproj.GenerateResource.cache
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\taskReminderUI.csproj.CoreCompileInputs.cache
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.exe
+D:\codes\Task Reminder\todolistapp\taskReminderUI\obj\Debug\todolistapp.pdb
